@@ -29,6 +29,49 @@
             {
               "client_id": "267764908080-bm30itsq98c7dsv8jv3651su21bikd01.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "267764908080-11nmgr2ci4n0m5aa0bfrhbasm9b68slp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quicklight"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267764908080:android:27597d2f18acab73a16df5",
+        "android_client_info": {
+          "package_name": "com.roha4885.quicklight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267764908080-bm30itsq98c7dsv8jv3651su21bikd01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQhbB0zFSByBi2apOlJF0SYA69WyGks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267764908080-bm30itsq98c7dsv8jv3651su21bikd01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267764908080-11nmgr2ci4n0m5aa0bfrhbasm9b68slp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quicklight"
+              }
             }
           ]
         }

@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBRiQhbB0zFSByBi2apOlJF0SYA69WyGks',
-    appId: '1:267764908080:android:3205634e31b7fc7da16df5',
+    appId: '1:267764908080:android:27597d2f18acab73a16df5',
     messagingSenderId: '267764908080',
     projectId: 'quicklight-bb9ad',
     storageBucket: 'quicklight-bb9ad.firebasestorage.app',
@@ -59,11 +59,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCPsgE3EnNlFsW3wH3ZuarYF7sam-76NWE',
-    appId: '1:267764908080:ios:53341a90648e09e0a16df5',
+    appId: '1:267764908080:ios:4ffabdaadc8ba98ba16df5',
     messagingSenderId: '267764908080',
     projectId: 'quicklight-bb9ad',
     storageBucket: 'quicklight-bb9ad.firebasestorage.app',
-    iosClientId: '267764908080-11nmgr2ci4n0m5aa0bfrhbasm9b68slp.apps.googleusercontent.com',
-    iosBundleId: 'com.example.quicklight',
+    iosClientId: '267764908080-f2q7bokqu1e1nmpmp38gc2vm2bekggkc.apps.googleusercontent.com',
+    iosBundleId: 'com.roha4885.quicklight',
   );
+
 }
