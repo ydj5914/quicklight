@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267764908080",
+    "project_id": "quicklight-bb9ad",
+    "storage_bucket": "quicklight-bb9ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267764908080:android:3205634e31b7fc7da16df5",
+        "android_client_info": {
+          "package_name": "com.example.quicklight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267764908080-bm30itsq98c7dsv8jv3651su21bikd01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRiQhbB0zFSByBi2apOlJF0SYA69WyGks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267764908080-bm30itsq98c7dsv8jv3651su21bikd01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
